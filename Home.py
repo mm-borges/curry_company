@@ -12,24 +12,35 @@ st.sidebar.image(image, width=210)
 
 st.markdown(
     """
-    # Curry Company Growth Dashboard
-    ## Welcome to the Curry Company Growth Dashboard! 🍛📈
+    ## Bem-vindos ao Dashboard da empresa Curry Company! 🍛📈
     
-    This dashboard is designed to provide insights into the growth and performance of Curry Company. Here, you can explore various metrics related to delivery operations, customer satisfaction, and overall business trends.
+    ###🎮 Como Usar
+    - Página Inicial: Acesse a página de boas-vindas com overview do projeto
+    - Navegação: Use a sidebar para alternar entre os dashboards
+    - Filtros: Aplique filtros de data, tráfego e clima conforme necessário
+    - Interatividade: Explore gráficos interativos e mapas
+    - Análises: Obtenha insights através das métricas e visualizações
     
-    ### Features:
-    - **Delivery Performance**: Analyze delivery times, distances, and efficiency.
-    - **Customer Satisfaction**: Monitor ratings and feedback from customers.
-    - **Operational Insights**: Understand traffic patterns, city-wise performance, and festival impacts.
+    ##📊 Principais Métricas Acompanhadas
     
-    ### How to Use:
-    - Navigate through different sections using the sidebar.
-    - Apply filters to customize your view based on dates, traffic conditions, and more.
-    - Visualize data through interactive charts and maps for better understanding.
+    ###🏢 Métricas da Empresa
+    - Volume total de pedidos
+    - Tendências temporais (diário/semanal)
+    - Distribuição geográfica
+    - Análise de tráfego urbano
     
-    We hope this dashboard helps you make informed decisions and drives the growth of Curry Company!
+    ###👤 Métricas dos Entregadores
+    - Performance individual
+    - Avaliações de qualidade
+    - Eficiência de entrega
+    - Análise de condições operacionais
     
-    ---
+    ###🍕 Métricas dos Restaurantes
+    - Tempos de entrega
+    - Distâncias percorridas
+    - Impacto de eventos especiais
+    - Análise comparativa por região
     """,
     unsafe_allow_html=True  
+
 )
