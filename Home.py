@@ -14,28 +14,28 @@ st.markdown(
     """
     ## Bem-vindos ao Dashboard da empresa Curry Company! 🍛📈
     
-    ###🎮 Como Usar
+    ### 🎮 Como Usar
     - Página Inicial: Acesse a página de boas-vindas com overview do projeto
     - Navegação: Use a sidebar para alternar entre os dashboards
     - Filtros: Aplique filtros de data, tráfego e clima conforme necessário
     - Interatividade: Explore gráficos interativos e mapas
     - Análises: Obtenha insights através das métricas e visualizações
     
-    ##📊 Principais Métricas Acompanhadas
+    ## 📊 Principais Métricas Acompanhadas
     
-    ###🏢 Métricas da Empresa
+    ### 🏢 Métricas da Empresa
     - Volume total de pedidos
     - Tendências temporais (diário/semanal)
     - Distribuição geográfica
     - Análise de tráfego urbano
     
-    ###👤 Métricas dos Entregadores
+    ### 👤 Métricas dos Entregadores
     - Performance individual
     - Avaliações de qualidade
     - Eficiência de entrega
     - Análise de condições operacionais
     
-    ###🍕 Métricas dos Restaurantes
+    ### 🍕 Métricas dos Restaurantes
     - Tempos de entrega
     - Distâncias percorridas
     - Impacto de eventos especiais
@@ -44,3 +44,4 @@ st.markdown(
     unsafe_allow_html=True  
 
 )
+
